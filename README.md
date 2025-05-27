@@ -1,8 +1,80 @@
-# React + Vite
+ # ⛅ Forecast App
+ 
+**Forecast App** is a modern weather forecasting application built with React and Vite. It provides users with real-time weather updates and an intuitive interface to search and view weather information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📁 Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+public/
+src/
+├── assets/
+├── App.css
+├── App.jsx
+├── InfoBox.css
+├── InfoBox.jsx
+├── SearchBox.css
+├── SearchBox.jsx
+├── WeatherApp.css
+├── WeatherApp.jsx
+├── index.css
+├── main.jsx
+.gitignore
+README.md
+eslint.config.js
+index.html
+package-lock.json
+package.json
+vite.config.js
+
+---
+
+## 💻 Technologies Used
+
+- React
+- Vite
+- CSS Modules
+- JavaScript (ES6+)
+
+---
+
+## 🌟 Features
+
+- Search weather by city name
+- Display current weather conditions
+- Responsive and clean UI design
+- Built with React and Vite for fast development and performance
+
+---
+
+## 🚀  Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/swarajphalke/Forecast-App.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd Forecast-App
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4.Run the development server:
+```bash
+npm run dev
+```
+
+5. Open your browser and go to:
+```bash
+http://localhost:5173
+```
+
+---
+
+## 🤝 Let's Connect
+If you find this repository useful or inspiring, feel free to ⭐️ the repo and connect with me on htps://www.linkedin.com/in/swaraj-phalke-b5539b220/.
