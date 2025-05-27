@@ -1,31 +1,31 @@
  # ⛅ Forecast App
- 
+
 **Forecast App** is a modern weather forecasting application built with React and Vite. It provides users with real-time weather updates and an intuitive interface to search and view weather information.
 
 ---
 
 ## 📁 Project Structure
 
-public/
-src/
-├── assets/
-├── App.css
-├── App.jsx
-├── InfoBox.css
-├── InfoBox.jsx
-├── SearchBox.css
-├── SearchBox.jsx
-├── WeatherApp.css
-├── WeatherApp.jsx
-├── index.css
-├── main.jsx
-.gitignore
-README.md
-eslint.config.js
-index.html
-package-lock.json
-package.json
-vite.config.js
+public/ <br>
+src/ <br>
+├── assets/ <br>
+├── App.css <br>
+├── App.jsx <br>
+├── InfoBox.css <br>
+├── InfoBox.jsx <br>
+├── SearchBox.css <br>
+├── SearchBox.jsx <br>
+├── WeatherApp.css <br>
+├── WeatherApp.jsx <br>
+├── index.css <br>
+├── main.jsx <br>
+.gitignore <br>
+README.md <br>
+eslint.config.js <br>
+index.html <br>
+package-lock.json <br>
+package.json <br>
+vite.config.js <br>
 
 ---
 
